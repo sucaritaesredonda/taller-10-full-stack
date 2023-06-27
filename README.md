@@ -15,15 +15,19 @@
 
 
 
-<h2>Punto 2 HTML </h2>
+<h2>Punto 2:</h2>
 
 
-<h2>Punto 3: CSS </h2>
+<h2>Punto 3: </h2>
 
 
-<h2>Punto 4: titulos  </h2>
+<h2>Punto 4:   </h2>
 
 
 <h2>Punto 5 -6- 7: </h2>
+<h3> 5- base de datos</h3>
+
+<img src= "./Public/images/mysql.png" alt= "mysql">
+
 
 

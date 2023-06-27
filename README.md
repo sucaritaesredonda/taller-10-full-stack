@@ -29,5 +29,9 @@
 
 <img src= "./Public/images/mysql.png" alt= "mysql">
 
+<h3> 6- conexión</h3>
+
+<img src= "./Public/images/conexion.png" alt= "conexion">
+
 
 

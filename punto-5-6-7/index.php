@@ -9,6 +9,6 @@
 <body>
     <h1>Punto 5-6-7</h1>
     <hr>
-
+<?php include "./service/conection.php"; ?>
 </body>
 </html>

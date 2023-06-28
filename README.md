@@ -33,5 +33,8 @@
 
 <img src= "./Public/images/conexion.png" alt= "conexion">
 
+<h3> 7- Muestra de datos en Pantalla</h3>
+
+<img src= "./Public/images/Bd.png" alt= "base de datos">
 
 

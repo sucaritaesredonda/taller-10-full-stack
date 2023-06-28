@@ -6,7 +6,7 @@ $newDate = $birthDate->diff($today);
 
 $newDate->days 
 
-if ($newDate >= 6570){
-echo
+if($newDate >= 6570){
+echo "";
 }
 ?>

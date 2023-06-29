@@ -13,7 +13,7 @@
   <div>
     <h1>Taller unidad 10</h1>
 
-    <h2>Sule Suarez Leguizamon</h2>
+    <h2>Sule Suárez Leguizamon</h2>
     <nav>
       <ul>
         <li>

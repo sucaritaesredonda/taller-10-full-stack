@@ -11,19 +11,20 @@
 
 
 
-<h2> Punto 1:  </h2>
+<h2> Punto 1: Operaciones Matematicas  </h2>
 
+<img src= "./Public/images/punto1.png" alt= "operación">
 
+<h2>Punto 2: Mayoria de edad</h2>
 
-<h2>Punto 2:</h2>
+<img src= "./Public/images/punto2.png" alt= "age">
+<h2>Punto 3: Datos usuario </h2>
+<img src= "./Public/images/punto3.png" alt= "age">
+<img src= "./Public/images/punto3-1.png" alt= "age">
 
+<h2>Punto 4: Fecha de nacimiento- mayoria de edad  </h2>
 
-<h2>Punto 3: </h2>
-
-
-<h2>Punto 4:   </h2>
-
-
+<img src= "./Public/images/punto4.png" alt= "age">
 <h2>Punto 5 -6- 7: </h2>
 <h3> 5- base de datos</h3>
 

@@ -9,10 +9,10 @@
     <link rel="stylesheet" href="./view/styles/form.css">
 </head>
 <body>
-   <h3>Punto 3 - Suma de dos numero ingresados por el usuario</h3>
+   <h3>Punto 1 - Operación de dos numeros</h3>
 
    <?php include "./view/components/form.php"; ?>
-
+   <?php include "./view/components/result.php"; ?>
 <hr>
 </body>
 </html>

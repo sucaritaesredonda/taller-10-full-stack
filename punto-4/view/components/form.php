@@ -1,5 +1,5 @@
 
-<?php include "./controller/calculationcontroller.php"; ?>
+<?php include "./controller/datecontroller.php"; ?>
 
 <form method="post">
 
@@ -24,6 +24,6 @@
          </div>
     </div>
 
-<button>Sumar</button>
+<button>Enviar</button>
 
 </form>

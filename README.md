@@ -1,4 +1,4 @@
-<h1>Taller 10: Sule Suarez </h1>
+<h1>Taller 10: Sule Suárez </h1>
 
 <hr>
 
